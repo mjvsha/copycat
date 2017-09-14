@@ -1,0 +1,77 @@
+.welcome {
+    width: 800px;
+    background-color: #26547C;
+    height: 200px;
+    display: inline-block;
+    padding: 20px 10px;
+    position: relative;
+    color: white;
+}
+
+img {
+    width: 50%;
+    height: 100%;
+}
+
+.welcome h1 {
+    position: absolute;
+    z-index: 100;
+    top: 20px;
+    left: 450px;
+}
+
+.cats {
+    width: 800px;
+    height: 400px;
+    background-color: burlywood;
+    padding: 20px 10px;
+}
+
+.products {
+    width: 800px;
+    height: 800px;
+    background-color: wheat;
+    padding: 20px 10px;
+}
+
+.cat-pic img {
+    border: 2px solid black;
+    width: 30%;
+    margin: 10px 10px;
+    float: left;
+}
+
+.cat-pic {}
+
+.values {
+    background-color: cadetblue;
+    width: 800px;
+    height: 400px;
+    padding: 20px 10px;
+}
+
+.values h3 {
+    display: inline-block;
+    margin: 20px 40px;
+    /* text-align: center; */
+    color: purple;
+}
+
+.welcome-img {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.everything {
+    margin: 0 300px;
+}
+
+nav {
+    background-color: turquoise;
+    /* margin: 0; */
+    /* position: fixed; */
+    /* top: 0; */
+    /* width: 1000px; */
+    /* float: right; */
+}
